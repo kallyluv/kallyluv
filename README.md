@@ -8,6 +8,10 @@ I absolutely adore everything about Minecraft, both Java and Bedrock Editions. I
 <h3 align="center">Database/Webserver Engineering</h3><hr>
 
 As I previously mentioned in [About Me](#about-me), I am highly experienced in JavaScript. This skill allows me to create highly efficient, lightweight databases/webservers that not only take up minimal storage space, but an incredibly low amount of processing. Most of these are written using an asynchronous language called [NodeJS](https://nodejs.org/en/about/). This allows me to have a server process data on multiple threads, creating the opportunity to achieve peak performance.
+<br><br>
+<h3 align="center">Support Me </h3><hr>
+
+As of late, I have been running low on time and money to dedicate to projects. Supporting me by [Sponsoring me on Github](https://github.com/sponsors/xJustJqy) or on [Patreon](https://patreon.com/sir_e_of_cali) would help me to allocate more funding & time to working on projects. Any and all support is greatly appreciated and will be used wisely! If you cannot donate, do not fret! You still have the ability to support me by showing my work to your friends, family, and others!
 <br><br><br>
 <h3 align="center">Stats</h3><hr>
 
