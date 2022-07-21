@@ -11,4 +11,4 @@ As I previously mentioned in [About Me](#about-me), I am highly experienced in J
 <br><br><br>
 <h3 align="center">Stats</h3><hr>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xJustJqy&show_icons=true&theme=dark">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" height=195></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xJustJqy&show_icons=true&theme=dark" height=150>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" height=150></div>
