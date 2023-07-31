@@ -3,7 +3,7 @@ Hey there! My name is Jay and I am a small-time software engineer. I specialize 
 <br><br>
 <h3 align="center">Minecraft</h3><hr>
 
-I absolutely adore everything about Minecraft, both Java and Bedrock Editions. I do an extreme amount of development in this realm and am highly experienced with creating plugins for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP). I have been attempting to learn how to write in Java in the hopes that I will be able to create __Minecraft: Java Edition__ mods (Forge & Fabric). I also specialize in designing texture packs for both __Minecraft: Java Edition__ and __Minecraft: Bedrock Edition__; my most recent being [Modernized 128x](https://github.com/xJustJqy/Modernized-128x).
+I absolutely adore everything about Minecraft, both Java and Bedrock Editions. I do an extreme amount of development in this realm and am highly experienced with creating plugins for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP). Recently I've started to expand into GoLang, developing a server in GoLang's very own [Dragonfly](https://github.com/df-mc/dragonfly). I also occasionally design texture packs for both __Minecraft: Java Edition__ and __Minecraft: Bedrock Edition__; my most recent being [Modernized 128x](https://github.com/xJustJqy/Modernized-128x).
 <br><br>
 <h3 align="center">Database/Webserver Engineering</h3><hr>
 
