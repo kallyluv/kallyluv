@@ -16,5 +16,5 @@ As I previously mentioned, I am highly experienced in JavaScript and PHP. This s
 <br><br>
 <h3 align="center">Stats</h3><hr>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xJustJqy&show_icons=true&theme=tokyonight" height=150>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJustJqy&hide=html,css&layout=compact&theme=tokyonight" height=150></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kallyluv&show_icons=true&theme=tokyonight" height=150>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallyluv&hide=html,css&layout=compact&theme=tokyonight" height=150></div>
 
