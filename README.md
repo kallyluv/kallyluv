@@ -5,16 +5,7 @@
 		<span style="font-size: 12px;">$${\color{CarnationPink}(they/them)}$$</span></span><br />
 	<span style="font-weight: bold; font-size: 12px;">
 		<span style="color: #ffba2f">$${\color{Goldenrod}Lead \space Developer}$$</span> @ </span
-	><a
-		href="https://store.avengetech.net"
-		style="
-			font-weight: bold;
-			font-size: 12px;
-			text-decoration: none;
-			color: inherit;
-		"
-		><span style="color: #ffaa50;">$${\color{YellowOrange}Avenge}$$</span><span style="color:#2ffffc">$${\color{SkyBlue}Tech}$$</span> <span style="color: #ffaa50;">$${\color{YellowOrange}Network}$$</span></a
-	>
+	><span style="color: #ffaa50;">$${\color{YellowOrange}Avenge}$$</span><span style="color:#2ffffc">$${\color{SkyBlue}Tech}$$</span> <span style="color: #ffaa50;">$${\color{YellowOrange}Network}$$</span>
 	</p>
 <hr style="border: 1px solid #444" />
 <p align="center">
