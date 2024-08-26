@@ -1,10 +1,10 @@
 <p align="center">
 	<img
 		src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/78117567?v=4&w=150&fit=cover&mask=circle" /><br />
-	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><span style="font-size: 22px;">Kally</span><br>
-		<span style="font-size: 12px;">(they/them)</span></span><br />
+	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><span style="font-size: 22px;">$${\color{CarnationPink}Kally}$$</span><br>
+		<span style="font-size: 12px;">$${\color{CarnationPink}(they/them)}$$</span></span><br />
 	<span style="font-weight: bold; font-size: 12px;">
-		<span style="color: #ffba2f">Lead Developer</span> @ </span
+		<span style="color: #ffba2f">$${\color{Goldenrod}Lead \space Developer}$$</span> @ </span
 	><a
 		href="https://store.avengetech.net"
 		style="
@@ -13,7 +13,7 @@
 			text-decoration: none;
 			color: inherit;
 		"
-		><span style="color: #ffaa50;">Avenge</span><span style="color:#2ffffc">Tech</span> <span style="color: #ffaa50;">Network</span></a
+		><span style="color: #ffaa50;">$${\color{YellowOrange}Avenge}$$</span><span style="color:#2ffffc">$${\color{SkyBlue}Tech}$$</span> <span style="color: #ffaa50;">$${\color{YellowOrange}Network}$$</span></a
 	>
 	</p>
 <hr style="border: 1px solid #444" />
