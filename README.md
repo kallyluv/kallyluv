@@ -4,8 +4,8 @@
 	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><span style="font-size: 22px;">$${\color{CarnationPink}Kally}$$</span><br>
 		<span style="font-size: 12px;">$${\color{CarnationPink}(she/her)}$$&nbsp;</span></span><br />
 	<span style="font-weight: bold; font-size: 12px;">
-		<span style="color: #ffba2f">$${\color{Goldenrod}Lead \space Developer}$$&nbsp;</span>@&nbsp;</span
-	><span style="color: #ffaa50;">$${\color{YellowOrange}Avenge}$$</span><span style="color:#2ffffc">$${\color{SkyBlue}Tech}$$&nbsp;</span><span style="color: #ffaa50;">$${\color{YellowOrange}Network}$$&nbsp;</span>
+		<span style="color: #ffba2f">$${\color{Goldenrod}Partner \space and \space Developer}$$&nbsp;</span>@&nbsp;</span
+	><span style="color: #ffaa50;">$${\color{YellowOrange}Avenge}$$</span><span style="color:#2ffffc">$${\color{SkyBlue}Tech}$$</span><span style="color: #ffaa50;">$${\color{YellowOrange}\space Network}$$&nbsp;</span>
 	</p>
 <hr style="border: 1px solid #444" />
 <p align="center">
