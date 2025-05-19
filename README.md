@@ -19,11 +19,8 @@
 	<h3 align="center" style="font-weight: bold; font-size: 20px;">My Projects</h3>
 </p>
 <p id="projects">
-&nbsp;&nbsp;&nbsp;&nbsp;I'm always bouncing around to different projects! Whether it's a Discord bot, desktop application, or even a Minecraft server, I never stay still. I have ADHD, so I'm always working on multiple projects at once. Here are a few of them that I'm doing right now:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm always bouncing around to different projects! Whether it's a Discord bot, desktop application, or even a Minecraft server, I never stay still. I have ADHD, so I'm almost always working on multiple projects at once. Right now I'm currently working on:<br>
 <p align="center">
-	<img width="5%" height="1">
-	<a href="https://discord.com/application-directory/1277406686180671570" target="_blank"><img src="assets/r6t_banner.png" height="40"></a>
-	<img width="10%" height="1">
 	<a href="https://store.avengetech.net/" target="_blank"><img src="assets/at_banner.png" height="40"></a>
 </p>
 </p>
