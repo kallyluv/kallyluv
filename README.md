@@ -1,11 +1,11 @@
 <p align="center">
 	<img
 		src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/78117567?v=4&w=150&fit=cover&mask=circle" /><br />
-	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><span style="font-size: 22px;">$${\color{CarnationPink}Kally}$$</span><br>
-		<span style="font-size: 12px;">$${\color{CarnationPink}(she/her)}$$&nbsp;</span></span><br />
+	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><span style="font-size: 22px;">Kally</span><br>
+		<span style="font-size: 12px;">(she/her)&nbsp;</span></span><br />
 	<span style="font-weight: bold; font-size: 12px;">
-		<span style="color: #ffba2f">$${\color{Goldenrod}Partner \space and \space Developer}$$&nbsp;</span>@&nbsp;</span
-	><span style="color: #ffaa50;">$${\color{YellowOrange}Avenge}$$</span><span style="color:#2ffffc">$${\color{SkyBlue}Tech}$$</span><span style="color: #ffaa50;">$${\color{YellowOrange}\space Network}$$&nbsp;</span>
+		<span style="color: #ffba2f">Partner and Developer&nbsp;</span>@&nbsp;</span
+	><span style="color: #ffaa50;">Avenge</span><span style="color:#2ffffc">Tech</span><span style="color: #ffaa50;">&nbsp;Network&nbsp;</span>
 	</p>
 <hr style="border: 1px solid #444" />
 <p align="center">
@@ -21,6 +21,6 @@
 <p id="projects">
 &nbsp;&nbsp;&nbsp;&nbsp;I'm always bouncing around to different projects! Whether it's a Discord bot, desktop application, or even a Minecraft server, I never stay still. I have ADHD, so I'm almost always working on multiple projects at once. Right now I'm currently working on:<br>
 <p align="center">
-	<a href="https://store.avengetech.net/" target="_blank"><img src="assets/at_banner.png" height="40"></a>
+	<a href="http://store.avengetech.net/" target="_blank"><img src="assets/at_banner.png" height="40"></a>
 </p>
 </p>
