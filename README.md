@@ -1,11 +1,11 @@
 <p align="center">
 	<img
 		src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/78117567?v=4&w=150&fit=cover&mask=circle" /><br />
-	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><span style="font-size: 22px;">Kally</span><br>
-		<span style="font-size: 12px;">(she/her)&nbsp;</span></span><br />
+	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><img src="/assets/kally.png" height=50 /><br>
+		<img src="/assets/pronouns.png" height=25 /></span><br />
 	<span style="font-weight: bold; font-size: 12px;">
-		<span style="color: #ffba2f">Partner and Developer&nbsp;</span>@&nbsp;</span
-	><span style="color: #ffaa50;">Avenge</span><span style="color:#2ffffc">Tech</span><span style="color: #ffaa50;">&nbsp;Network&nbsp;</span>
+		<span style="color: #ffba2f">Partner and Developer&nbsp;</span>@&nbsp;</span><span style="color: #ffaa50;">Avenge</span><span style="color:#2ffffc">Tech</span><span style="color: #ffaa50;">&nbsp;Network&nbsp;
+	</span>
 	</p>
 <hr style="border: 1px solid #444" />
 <p align="center">
