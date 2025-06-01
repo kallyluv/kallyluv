@@ -69,7 +69,6 @@
 </p>
 <p id="ghstats">
 	<p align="center">
-  		<img src="https://github-readme-stats.vercel.app/api?username=kallyluv&show_icons=true&theme=tokyonight" alt="GitHub Stats" height=150 />
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallyluv&layout=compact&theme=radical" alt="Top Languages" height=150 />
+		<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kallyluv&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F&mode=weekly" alt="GitHub Streak" width=600 /></a>
 	</p>
 </p>
