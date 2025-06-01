@@ -1,8 +1,8 @@
 <p align="center">
-	<img
+	<a href="#"><img
 		src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/78117567?v=4&w=150&fit=cover&mask=circle" /><br />
 	<span style="font-weight: bold; font-size: 1px; color: #ed9bdd;"><img src="/assets/kally.png" height=50 /><br>
-		<img src="/assets/pronouns.png" height=25 /></span><br />
+		<img src="/assets/prnouns.png" height=25 /></span></a><br />
 	<span style="font-weight: bold; font-size: 12px;">
 		<a href="#"><img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&duration=2500&pause=4000&color=F73BBA&center=true&vCenter=true&width=435&lines=Partner+%26+Developer+%40+AvengeTech;PocketMine-MP+Veteran;Backend+%26+Database+Engineer" alt="Typing SVG" /></a>
 	</span>
