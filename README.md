@@ -21,7 +21,7 @@
 <p id="projects">
 &nbsp;&nbsp;&nbsp;&nbsp;I'm always bouncing around to different projects! Whether it's a Discord bot, desktop application, or even a Minecraft server, I never stay still. I have ADHD, so I'm almost always working on multiple projects at once. Right now I'm currently working on:<br><br>
 <p align="center">
-	<a href="http://store.avengetech.net/" target="_blank"><img src="assets/at_banner.png" height="40"></a>
+	<a href="https://github.com/AvengeTech" target="_blank"><img src="assets/at_banner.png" height="40"></a>
 </p>
 </p>
 <br>
