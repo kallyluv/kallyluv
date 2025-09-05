@@ -15,12 +15,22 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Hey there, I'm Kally! I'm 20 years old, and I'm a self-taught programmer and software engineer currently working on my certification in Computer Programming! I like to dabble in everything from simple web APIs to building standalone applications from the ground up. I've been programming for almost 9 years, or since I was roughly 11 years old, and I've grown to love the creative freedom the art brings me. I've spent countless hours writing silly little programs for me and my friends to use, and even taught some of them how to code!<br>
 </p><br>
 <hr style="border: 1px solid #444" />
-<p align="center">
-	<h3 align="center" style="font-weight: bold; font-size: 20px;">My Projects</h3>
-</p>
 <p id="projects">
+<p align="center">
+	<h3 align="center" style="font-weight: bold; font-size: 20px;">Active Projects</h3>
+</p>
 &nbsp;&nbsp;&nbsp;&nbsp;I'm always bouncing around to different projects! Whether it's a Discord bot, desktop application, or even a Minecraft server, I never stay still. I have ADHD, so I'm almost always working on multiple projects at once. Right now I'm currently working on:<br><br>
 <p align="center">
+	- - - Free Agent - - -
+</p>
+<br>
+<hr style="border: 1px solid #444" />
+<p align="center">
+	<h3 align="center" style="font-weight: bold; font-size: 20px;">Open-Sourced Projects</h3>
+</p>
+<p align="center">
+	&nbsp;&nbsp;&nbsp;&nbsp;The following projects are all open-sourced work from organizations that I've either managed or worked-for in the past! All open-source material is authorized for publishing and use by the organizations:
+	<br><br>
 	<a href="https://github.com/AvengeTech" target="_blank"><img src="assets/at_banner.png" height="40"></a>
 </p>
 </p>
