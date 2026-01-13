@@ -12,7 +12,7 @@
 	<h3 align="center" style="font-weight: bold; font-size: 20px;">About Me</h3>
 </span>
 <p id="about-me">
-&nbsp;&nbsp;&nbsp;&nbsp;Hey there, I'm Kally! I'm 20 years old, and I'm a self-taught programmer and software engineer currently working on my certification in Computer Programming! I like to dabble in everything from simple web APIs to building standalone applications from the ground up. I've been programming for almost 9 years, or since I was roughly 11 years old, and I've grown to love the creative freedom the art brings me. I've spent countless hours writing silly little programs for me and my friends to use, and even taught some of them how to code!<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hey there, I'm Kally! I'm 21 years old, and I'm a self-taught programmer and software engineer currently working on my certification in Computer Programming! I like to dabble in everything from simple web APIs to building standalone applications from the ground up. I've been programming for almost 9 years, or since I was roughly 11 years old, and I've grown to love the creative freedom the art brings me. I've spent countless hours writing silly little programs for me and my friends to use, and even taught some of them how to code!<br>
 </p><br>
 <hr style="border: 1px solid #444" />
 <p id="projects">
